@@ -1,0 +1,3 @@
+public Oblong extends Shape{
+  
+}
